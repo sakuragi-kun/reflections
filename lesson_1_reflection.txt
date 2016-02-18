@@ -1,0 +1,34 @@
+-utk IO klo rules tidak dipilih, campaign biasa
+- error handling
+
+
+***** pangkalpinang
+- membenahi e-kelurahan, jalan masuk smart city
+full feature 2 jt/bln
+database harus di kita
+mitra : mbak dita hapsari
+
+data pemerintahan ada di telkom
+
+****review udata
+- fokus di feature
+
+****kejaksaan
+-solusi untuk intel kejaksaan
+link
+mobile
+simkari dgn PC
+-obj : mendigitalisasi laporan2 intel smpai dengan action (nota dinas)
+painful problem -> kesulitan untuk membaca laporan paper laporan dikirim via pos,
+seminggu baru sampai dgn sandi2 tertentu
+
+- proposed solusi :
+aplikasi data mining, dgn kemampuan
+1. semantik
+
+competitive adv :
+- Telkom menambah pengumpulan data subscriber
+- mengambil data e-ktp
+
+vpn encrypt kelas militer & data diencrypt
+kendala jaringan -> ada simkari atau tdk
